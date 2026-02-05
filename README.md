@@ -14,8 +14,8 @@
 
 **Install Script**
 ```
-git clone https://github.com/yonarebahan/Discord-auto-with-AI.git
-cd Discord-auto-with-AI
+git clone https://github.com/Ekkalamrani1099/bot.git
+cd bot
 ```
 Buat environtment
 ```
